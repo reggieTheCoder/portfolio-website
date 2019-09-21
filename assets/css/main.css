@@ -1622,6 +1622,27 @@ input, select, textarea {
 
 /* Image */
 
+	.header-image {
+		width: 100%;
+	}
+
+	.content-image {
+		width: 300px;	
+		height: 200px;;
+	}
+
+	#user-interface-image {
+		padding-bottom: 11%;
+	}
+
+	/* projects */
+	.port-image img {
+		height: 300px;;
+		width: 200px;
+	}
+
+
+
 	.image {
 		display: inline-block;
 		position: relative;
